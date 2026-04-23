@@ -2,7 +2,7 @@ import React, { useState } from 'react';
 import { Image, Text, TouchableOpacity, View } from 'react-native';
 import { styles } from '../styles/statusStyles';
 
-const NOVAS_FRASES_DA_SORTE: string[] = [
+const FRASES_DA_SORTE: string[] = [
   'Pequenas ações hoje pavimentam o caminho para grandes conquistas amanhã.',
   'Sua criatividade será a chave para superar um desafio inesperado.',
   'Um encontro casual trará uma perspectiva valiosa para os seus planos.',
